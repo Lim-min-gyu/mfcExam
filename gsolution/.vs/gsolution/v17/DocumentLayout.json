@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gprj\\gprj.vcxproj|C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\gprj\\gprjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gprj\\gprj.vcxproj|C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\gprj\\gprj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gprj\\gprj.vcxproj|solutionrelative:gprj\\gprj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gprjDlg.cpp",
+              "DocumentMoniker": "C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\gprj\\gprjDlg.cpp",
+              "RelativeDocumentMoniker": "gprj\\gprjDlg.cpp",
+              "ToolTip": "C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\gprj\\gprjDlg.cpp",
+              "RelativeToolTip": "gprj\\gprjDlg.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAewJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T07:54:10.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gprj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\gprj\\gprj.rc",
+              "RelativeDocumentMoniker": "gprj\\gprj.rc",
+              "ToolTip": "C:\\Users\\moble\\Documents\\GitHub\\mfcExam\\gsolution\\gprj\\gprj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "RelativeToolTip": "gprj\\gprj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-06T07:50:21.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
